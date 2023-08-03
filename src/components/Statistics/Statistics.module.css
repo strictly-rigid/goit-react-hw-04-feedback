@@ -1,0 +1,16 @@
+.statistics {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.statistics p {
+  margin: 5px 0;
+}
+
+.notification {
+  color: #f00;
+  font-weight: bold;
+  font-size: 40px;
+}

@@ -1,0 +1,29 @@
+.btnoptions {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.btnoptions li {
+  margin-right: 10px;
+}
+
+.btnoptions button {
+  width: 100px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btnoptions button:hover {
+  background-color: #0056b3;
+}
+
+.optionBtn {
+  text-transform: capitalize;
+}
